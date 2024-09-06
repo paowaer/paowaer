@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Junfeng (Ian) Ouyang! 🚀</h1>
 <h3 align="center">Software Engineering Student @ Northeastern University</h3>
-<h3 align="center">👨‍💻Full Stack Web Dev | ☁️:Certified AWS Cloud Practitioner | :octocat:Cat Slave </h3>
+<h3 align="center">👨‍💻Full Stack Web Dev | ☁️Certified AWS Cloud Practitioner | :octocat:Cat Slave </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ian-ou-8b4906295)](http://www.linkedin.com/in/ian-ou-8b4906295)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/)
