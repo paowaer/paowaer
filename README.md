@@ -4,7 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ian-ou-8b4906295)](http://www.linkedin.com/in/ian-ou-8b4906295)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/)](https://github.com/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/oyjf012/)](https://leetcode.com/u/oyjf012/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:oyjf012@gmail.com)](mailto:oyjf012@gmail.com)
 
 <p align="center">
@@ -63,7 +62,6 @@ I'm passionate about building scalable, efficient and forward-thinking projects,
 ### 📫 Let's Connect!
 - LinkedIn: [Junfeng Ouyang](http://www.linkedin.com/in/ian-ou-8b4906295)
 - GitHub: [paowaer](https://github.com/)
-- LeetCode: [Ian Ou](https://leetcode.com/u/oyjf012/)
 - mail: [oyjf012@gmail.com](mailto:oyjf012@gmail.com)
 
 Thanks for visiting my profile! 😄
